@@ -1,5 +1,5 @@
 {
-  "image": "ubuntu-24.04",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {},
   "postStartCommand": "bash /workspaces/test-XV6-codespace/setup.sh"
 }
